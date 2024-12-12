@@ -1,10 +1,9 @@
 {
   "name": "@codemirror/view",
-  "version": "6.35.3-1",
+  "version": "6.35.3-2",
   "description": "DOM view component for the CodeMirror code editor",
   "scripts": {
-    "test": "cm-runtests",
-    "prepare": "cm-buildhelper src/index.ts"
+    "test": "cm-runtests"
   },
   "keywords": [
     "editor",
